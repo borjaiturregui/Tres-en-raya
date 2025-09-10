@@ -1,1 +1,1 @@
-Juego simple del tres en raya.
+Un juego de «Tres en Raya» para un jugador que se ejecuta completamente en el navegador. La interfaz está construida con HTML, el estilo visual con CSS y la lógica del juego con JavaScript puro, sin dependencias externas.
